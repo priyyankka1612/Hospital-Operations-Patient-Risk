@@ -1,5 +1,3 @@
-<img width="1327" height="747" alt="image" src="https://github.com/user-attachments/assets/9edf6a67-24b2-476e-838a-c0a5a26f8aa3" /># 🏥 Hospital Operations & Patient Risk Intelligence Dashboard
-
 ## 📌 Project Overview
 
 The **Hospital Operations & Patient Risk Intelligence Dashboard** is an end-to-end healthcare analytics project designed to help hospital leadership monitor operational performance, patient risk factors, financial outcomes, and resource utilization.
